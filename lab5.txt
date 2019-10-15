@@ -1,0 +1,6 @@
+Lab 5
+
+Override IntentService to create a simple service that sleeps for 10 seconds in onHandleIntent() and then stops
+Start the IntentService from mainActivity
+Call startForeground from IntentService’s onHandleIntent() (or a helper method in IntentService)
+Display a notification in phone's notification bar (disappears after sleep in onHandleIntent() finishes)
