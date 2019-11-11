@@ -1,0 +1,32 @@
+overall: build up to gaitergram. 
+
+learn to program mobile app in android studio
+
+lecture 1 - what is an app?
+	most popular apps
+	what are current app trends?
+	Android Studio 
+	Hello World
+
+lecture 2 - simple UI through tic-tac-toe
+	UI design/text mode, xml
+	integrating view xml elements with java
+	tic-tac-toe
+
+lecture 3 - system architecture, lifecycle, intents - GUIDE TO APP ARCHITECTURE
+	https://developer.android.com/jetpack/docs/guide
+	app that can navigate the file directory
+	app that can start other apps through intent
+	app that 
+
+lecture 3 - networking and communication
+	multiplayer tic-tac-toe
+	a simple chat box
+
+lecture 4 - communicating between apps
+	chat box that can start camera
+	picking an icon for tic-tac-toe
+	
+lecture 5 - multi-screen and lifecycle
+
+lecture 6 - background tasks, services
